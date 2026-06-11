@@ -21,13 +21,41 @@
 
 ---
 <p align="center">
-| Language   | Experience | Description |
-|------------|------------|--------|
-| JavaScript | `Very Good`  | Main Language |
-| TypeScript | `Good`       | Good at making types |
-| C++        | `Decent`     | Knows basic syntax, and some libraries such as Vulkan |
-| HTML       | `Good`       | Normal |
-| CSS        | `Bad`        | Still learning how to center a div |
+<table border="1">
+  <tr>
+    <th>Language</th>
+    <th>Experience</th>
+    <th>Description</th>
+  </tr>
+
+  <tr>
+    <td>JavaScript</td>
+    <td>Very Good</td>
+    <td>Main Language</td>
+  </tr>
+
+  <tr>
+    <td>TypeScript</td>
+    <td>Good</td>
+    <td>Good at making types</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>Decent</td>
+    <td>Learning; Experience with libraries like Vulkan</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Good</td>
+    <td>Im fine at html</td>
+  </tr>
+  <tr>
+      <td>CSS</td>
+    <td>The Worst</td>
+    <td>Idk how to center a div</td>
+  </tr>
+</table>
+
 </p>
 
 ---
