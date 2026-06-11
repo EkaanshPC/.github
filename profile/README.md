@@ -20,6 +20,7 @@
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
 ---
+<p align="center">
 | Language   | Experience | Description |
 |------------|------------|--------|
 | JavaScript | `Very Good`  | Main Language |
@@ -27,6 +28,7 @@
 | C++        | `Decent`     | Knows basic syntax, and some libraries such as Vulkan |
 | HTML       | `Good`       | Normal |
 | CSS        | `Bad`        | Still learning how to center a div |
+</p>
 
 ---
 
